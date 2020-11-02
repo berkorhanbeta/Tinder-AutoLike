@@ -9,7 +9,7 @@ Then go to the console window and paste this code.
 ```
 
 
-## Note
+## Warning!
 
 If you don't use the Tinder with English language, then you need to change the button name in the code.
 If you don't change the button name, this code not work.
