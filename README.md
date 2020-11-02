@@ -3,10 +3,10 @@
 This is a simple auto like code for tinder.
 
 ## Usage
-'''bash
+```bash
 First, Open Developer Tools of your browser.
 Then go to the console window and paste this code.
-'''
+```
 
 
 ## Note
