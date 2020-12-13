@@ -12,7 +12,7 @@ In this code section, you need to change the class="Pos(r) Z(1)" value to class=
 Then paste the JS code into the console section.
 ```
 
-## Change this code !
+## Change this code !
 ![Screenshot](tinder-button.png)
 
 ## Warning!
