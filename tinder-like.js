@@ -6,9 +6,6 @@ var timer = 2000;
 
 
 sendIt = setInterval(function(){
-  // If you are not using Tinder in English language, then change the 'Like' text in your local language.
-  // Ex : In Turkish like button name is 'Beğen'. So you need to edit this code like this;
-  // "[aria-label='Beğen']"
-  var begen = document.querySelectorAll("[aria-label='Like']");
+  var begen = document.getElementsByClassName("likebutton");
   begen[0].click()
 }, timer)
